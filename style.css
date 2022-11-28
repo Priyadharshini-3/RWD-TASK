@@ -1,0 +1,36 @@
+        .smallbox{ 
+        text-align: center;
+        padding: 20px 1px;
+        margin : 30px 0px;
+        border:2px solid black;
+    }
+    .smallbox1{
+        border:2px solid black;
+        padding:10px 8px;
+        width:80px;
+        height:100px;
+        margin: 20px;
+       justify-content: center;
+    }
+    .col-sm-8{
+          text-align: center;
+          
+    }
+    .smallbox2{
+        border-radius: 50%;
+        border: 2px solid black;
+        height: 80px;
+        width: 60px;
+        padding:20px 1px;
+    }
+     .but{
+        width:100px;
+    } 
+     .typ{
+        width: 500px;
+        text-align: center;
+    }
+     .type{
+        text-align: center;
+    } 
+    
